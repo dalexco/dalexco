@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dalexco
 - 👀 I’m interested in data science 
 - 🌱 I’m currently learning R and stats
-- 💞️ I’m looking to collaborate on any entry-level R and Python stuff
+- 💞️ I’m looking to collaborate on any entry-level R-based projects
 - 📫 How to reach me: www.linkedin.com/in/davidalexcolledge
 
 <!---
